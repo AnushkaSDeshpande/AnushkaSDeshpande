@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on various projects on data using different skills
 - 📫 How to reach me:
 - E-mail: anushkadeshpande2310@gmail.com
-- Linkedin:https://www.linkedin.com/in/anushka-deshpande-aa3859222/
+- Linkedin:https://www.linkedin.com/in/anushkasdeshpande23/
 
 <!---
 AnushkaSDeshpande/AnushkaSDeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
